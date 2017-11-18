@@ -1,2 +1,1 @@
-# hello-world
-The first repository
+A new learner of programming
